@@ -2,7 +2,7 @@
 
 This directory contains the detailed listing of all backend features and functionalities required for the Airbnb Clone project.
 
-![Features and Functionalities](features-and-functionalities.png)
+![Features and Functionalities](airbnb-backend-features.png)
 
 **features-and-functionalities.png**: Visual diagram covering:
 
