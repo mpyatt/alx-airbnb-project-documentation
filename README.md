@@ -44,3 +44,7 @@ Use these documents to understand the system’s architecture, API design, and w
 4. Consult the **Data Flow Diagram** for data exchange details.
 5. Follow the **Flowcharts** to see step-by-step process flows.
 6. Use **Requirements.md** for API specs, validation rules, and performance criteria.
+
+---
+
+> This project is part of the **ALX ProDev Backend Software Engineering Program**
